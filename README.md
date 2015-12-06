@@ -1,2 +1,2 @@
 # SMRx
-Stand-alone scripts for mutation rate analysis and structural visualizations.
+Stand-alone scripts for molecular and transcriptome enrichment-overlap visualization.
